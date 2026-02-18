@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/6NFHaLB"  ><a href="//imgur.com/a/6NFHaLB">profile</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"  />
+  <img height="150" src="https://i.imgur.com/cm2TNOq.jpeg"  />
 </div>
 
 ###
