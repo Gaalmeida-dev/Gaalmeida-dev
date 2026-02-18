@@ -1,89 +1,108 @@
 <div align="center">
+  <img height="150" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/6NFHaLB"  ><a href="//imgur.com/a/6NFHaLB">profile</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="31" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="31" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="56" height="31" alt="linktree logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gaalmeida-dev.Gaalmeida-dev&left_color=darkviolet&right_color=darkmagenta"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Care%20for%20a%20cuppa?%20%F0%9F%8D%B5%20%20%20%20%20%20&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Feel free to look around</h3>
+
+###
+
+<h4 align="left">Hi, I’m Gabriela, a 19‑year‑old software engineering student from Brazil. I’m currently focusing on becoming a full‑stack developer, and I’m taking part in the Generation bootcamp where I’m learning TypeScript, Node.js, and modern web development. In my free time, I enjoy building small side projects to practise what I learn in class and experiment with new ideas. 🚀</h4>
+
+###
+
+<h3 align="left">🛠 Tech I happily lose sleep over:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=17&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h3 align="left">🔥 Keep up with my GitHub streak:</h3>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gaalmeida-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaalmeida-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark),(min-width:769px)" srcset="https://your-image-dark-desktop.jpg">
-  <source media="(prefers-color-scheme: dark),(max-width:768px)" srcset="https://your-image-dark-mobile.jpg">
-  <source media="(prefers-color-scheme: light),(min-width:769px)" srcset="https://your-image-light-desktop.jpg">
-  <source media="(prefers-color-scheme: light),(max-width:768px)" srcset="https://your-image-light-mobile.jpg">
-  <img src="https://your-default-image.jpg" alt="Seu Nome | Dev TypeScript/Node.js" width="100%" height="auto">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaalmeida-dev/Gaalmeida-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaalmeida-dev/Gaalmeida-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gaalmeida-dev/Gaalmeida-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="background: rgba(0,0,0,0.8); color: white; padding: 15px; border-radius: 20px; font-family: Arial; font-size: 14px; line-height:1.2;">
-      Olá! Sou dev TypeScript/Node.js de RJ 🇧🇷
-    </div>
-  </foreignObject>
-</svg>
-
-<table><tr>
-<td valign="top"><svg width="250" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml" style="background: linear-gradient(135deg, #ff00ff, #8a2be2); padding:20px; border-radius:15px; color:white; text-align:center; height:100%;">
-<h3>Meus Posts</h3>
-<p>Escrevendo sobre TS/Node</p>
-<a href="https://seu-blog.com" style="display:block; background:#fff; color:#ff00ff; padding:10px; border-radius:10px; text-decoration:none; margin-top:10px;">Leia Agora</a>
-</div></div></foreignObject></svg></td>
-
-<td valign="top"><svg width="250" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml" style="background: linear-gradient(135deg, #00ffff, #4169e1); padding:20px; border-radius:15px; color:white; text-align:center; height:100%;">
-<h3>Estudos</h3>
-<p>CRUD TS, Git, Security</p>
-<a href="https://github.com/SEU_USERNAME?tab=repositories" style="display:block; background:#fff; color:#00ffff; padding:10px; border-radius:10px; text-decoration:none; margin-top:10px;">Estude Comigo</a>
-</div></div></foreignObject></svg></td>
-
-<td valign="top"><svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-<circle cx="100" cy="100" r="90" fill="#ff1493"/>
-<foreignObject x="20" y="60" width="160" height="100">
-<div xmlns="http://www.w3.org/1999/xhtml" style="color:white; text-align:center; font-size:12px; line-height:1.3;">
-<img src="https://sua-foto-perfil.jpg" width="60" height="60" style="border-radius:50%; margin-bottom:10px;">
-<p>Gabriela</p>
-<p>@Gaalmeida-dev</p>
-</div>
-</foreignObject>
-</svg></td>
-
-<td valign="top"><svg width="250" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml" style="background: #ffd700; padding:20px; border-radius:15px; color:black; text-align:center; height:100%;">
-<h3>Alt. Monsters</h3> 
-<p>Acessibilidade em tempo real</p>
-<a href="https://link.com" style="display:block; background:#000; color:#ffd700; padding:10px; border-radius:10px; text-decoration:none; margin-top:10px;">Acesse</a>
-</div></div></foreignObject></svg></td>
-</tr></table>
-
-<table><tr>
-<td valign="top"><svg width="200" height="250" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml" style="background:#6f42c1; padding:20px; border-radius:15px; color:white; text-align:center;">
-<img src="https://dev.to/favicon.ico" width="50" height="50">
-<p>DEV.to</p>
-<a href="https://dev.to/SEU_USERNAME" style="display:block; background:#fff; color:#6f42c1; padding:10px; border-radius:10px; margin-top:10px;">Leia</a>
-</div></div></foreignObject></svg></td>
-
-<td valign="top"><svg width="200" height="250" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml" style="background:linear-gradient(45deg, #28a745, #20c997); padding:20px; border-radius:15px; color:white;">
-<h4>WGAC 101</h4>
-<p>Aprenda acessibilidade</p>
-<a href="https://link.com" style="display:block; background:#fff; color:#28a745; padding:10px; border-radius:10px;">Learn</a>
-</div></div></foreignObject></svg></td>
-
-<td valign="top"><svg width="250" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml" style="background: #dc3545; padding:20px; border-radius:15px; color:white; height:100%;">
-<h3>Totaly Dev</h3>
-<p>Desenvolva em tempo real</p>
-<a href="https://link.com" style="display:block; background:#fff; color:#dc3545; padding:10px; border-radius:10px;">Grow</a>
-</div></div></foreignObject></svg></td>
-</tr></table>
-
-[![Twitter](https://img.shields.io/twitter/follow/SEU_TWITTER?logo=twitter)](https://twitter.com/SEU_TWITTER)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@SEU_YOUTUBE)
-[![GitHub](https://img.shields.io/github/followers/SEU_USERNAME?logo=github)](https://github.com/SEU_USERNAME)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<style>
-@media (prefers-color-scheme: light) {
-  svg foreignObject div { filter: invert(1); } /* Inverte cores em light mode */
-}
-</style>
+###
